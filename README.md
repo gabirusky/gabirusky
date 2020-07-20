@@ -18,7 +18,6 @@
 <a href="mail:gpereiragsantos@gmail.com"> 
   <img src="https://img.shields.io/badge/gmail-red"> 
 </a> 
-<br>
 <a href="#"> 
   <img src="https://img.shields.io/badge/twitter-informational"> 
 </a>
