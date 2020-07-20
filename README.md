@@ -10,4 +10,4 @@
 
 🤖e acompanhe o [blog](https://gabirusky.com) para saber sobre meus projetos.
 
-<a href="https://facebook.com/gabirusky"><img src="https://img.shields.io/badge/fb-blue"></a> <a href="mail:gpereiragsantos@gmail.com"><img src="https://img.shields.io/badge/gmail-red"></a> <a href="#"><img src="https://img.shields.io/badge/twitter-informational"></a> <a href="https://instagram.com/gabirusky"><img src="https://img.shields.io/badge/instagram-blueviolet"></a> 
+<a href="https://facebook.com/gabirusky"><img src="https://img.shields.io/badge/fb-blue"></a> <a href="mailto:gpereiragsantos@gmail.com"><img src="https://img.shields.io/badge/gmail-red"></a> <a href="https://www.linkedin.com/in/gabirusky/"><img src="https://img.shields.io/badge/linkedin-informational"></a> <a href="https://instagram.com/gabirusky"><img src="https://img.shields.io/badge/instagram-blueviolet"></a> 
