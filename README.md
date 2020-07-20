@@ -4,7 +4,7 @@
 
 👨‍💻e estou me aventurando no mundo da **programação** e **desenvolvimento web**.
 
-✨**Acredito na criatividade como forma de superar desafios.**✨
+✨**Acredito na criatividade como forma de superar desafios**.✨
 
 👋Me dê um alô nas redes sociais,
 
