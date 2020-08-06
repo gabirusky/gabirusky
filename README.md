@@ -1,7 +1,8 @@
-<code>*console.log*(**gabirusky()**)</code> 
-<code><h2>*What's up folks?* 🙋‍♂️ My name is **Gabriel Pereira**, and...</h2></code>
+<code>*console.log*(**gabirusky()**)</code>
 
-> 🧙‍♂️ You can call me ***gabirusky***,<br><br>
+<h2><i>What's up folks?</i> 🙋‍♂️ My name is <b>Gabriel Pereira</b>, and...</h2>
+
+> 🧙‍♂️ You can call me **gabirusky**,<br><br>
 > 👨‍💻 I'm a self-taught web dev, beginning to learn JavaScript and HTML/CSS.<br>
 > ✨ **I believe that creativity is the best way to overcome any challenge**!<br><br>
 > 💛 I really *dig* playing games and watching movies:<br>
