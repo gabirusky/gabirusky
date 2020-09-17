@@ -10,5 +10,4 @@
 > 🎬 Current favorite movie: **Parasite**<br><br>
 > 🌏 You can find me here:<br>
 > <a href="https://facebook.com/gabirusky"><img src="https://img.shields.io/badge/fb-blue"></a> <a href="mailto:gpereiragsantos@gmail.com"><img src="https://img.shields.io/badge/gmail-red"></a> <a href="https://www.linkedin.com/in/gabirusky/"><img src="https://img.shields.io/badge/linkedin-informational"></a> <a href="https://instagram.com/gabirusky"><img src="https://img.shields.io/badge/instagram-blueviolet"></a><br>
-> 🤖 I also have a [blog](https://gabirusky.com) *(in portuguese)* with updates on my projects.<br><br>
 > 😄👋 **Thanks for passing by! *See ya*!**
