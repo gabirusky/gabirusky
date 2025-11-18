@@ -1,14 +1,15 @@
 <code>*console.log*(**gabirusky()**)</code>
 
-<h2><i>What's up folks?</i> 🙋‍♂️ My name is <b>Gabriel Pereira</b>, and...</h2>
 
-> 🧙‍♂️ You can call me **gabirusky**,<br><br>
-> 👨‍💻 I'm an IT student at Fatec Taubaté, curious and passionate about tech.<br>
-> ✅ I learned C and Python, and also JavaScript and HTML/CSS.<br>
-> ✨ **I believe that creativity is the best way to overcome any challenge**!<br><br>
-> 💛 I really *dig* playing games and watching movies:<br>
-> 🎮 Current favorite game: **The Long Dark**<br>
-> 🎬 Current favorite movie: **The Terminator**<br><br>
-> 🌏 You can find me here:<br>
-> <a href="mailto:gpereiragsantos@gmail.com"><img src="https://img.shields.io/badge/gmail-red"></a> <a href="https://www.linkedin.com/in/gabirusky/"><img src="https://img.shields.io/badge/linkedin-informational"></a> <br>
-> 😄👋 **Thanks for passing by! *See ya*!**
+## Hi, I'm Gabirusky 👋
+
+![header gabirusky](https://github.com/user-attachments/assets/f34a67c6-6bbe-4ec1-825a-65fa633e002a)
+
+I'm an IT student at **Fatec Taubaté** who is passionate about using creativity to overcome technical challenges and developing efficient systems. Some technologies I enjoy working with include **React**, **Python**, and **Kotlin**, with a growing focus on **database management** and **Agile methodologies**. Currently in my third semester, I like leveraging AI-driven tools to accelerate development and optimize workflows, combining rapid learning with modern tech to solve complex problems.
+
+---
+
+Find me around the web 🌎:
+
+* Connect on [LinkedIn](https://www.linkedin.com/in/gpereiragsantos/) 🧑‍💻
+* Email me at [Gmail](mailto:gpereiragsantos@gmail.com) 📩
